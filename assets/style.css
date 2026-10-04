@@ -108,3 +108,8 @@ footer.site a { color: var(--text-2); text-decoration: none; margin-right: 16px;
   .hero h1 { font-size: 32px; }
   .grid { grid-template-columns: 1fr; }
 }
+
+/* Google Play badge */
+.store-badge { display: inline-block; }
+.store-badge img { height: 60px; width: auto; }
+.store-note { margin: 10px 0 0; font-size: 14px; color: var(--text-3); }
